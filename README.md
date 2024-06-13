@@ -32,7 +32,7 @@ It includes:
 To view the landing page locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/devdynasty-landing-page.git
+   git clone https://github.com/pranav-gujar/PRODIGY_WD_01
 
 
 2. Navigate to the project directory:
