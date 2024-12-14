@@ -1,9 +1,7 @@
-# Task of Web Development Internship at Prodigy Infotech.
-
 # DevDynasty Landing Page
 
 Welcome to the repository for the **DevDynasty** landing page. 
-This project showcases the landing page I created using HTML5, CSS3, and JavaScript as part of my web development internship at **Prodigy Infotech**.
+This project showcases the landing page I created using HTML5, CSS3, and JavaScript.
 
 ## Project Overview
 
@@ -32,11 +30,16 @@ It includes:
 To view the landing page locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/pranav-gujar/PRODIGY_WD_01
+   ````bash 
+    git clone https://github.com/pranav-gujar/DevDynasty_Landing_Page.git`
+   ````
 
 
 2. Navigate to the project directory:
-   cd devdynasty-landing-page
+   ````bash 
+    cd DevDynasty_Landing_Page`
+   ````
+
 
 3. Open the index.html file in your browser:
-   open index.html
+   open `index.html`
